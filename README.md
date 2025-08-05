@@ -22,4 +22,4 @@ Install Libraies for LLM:
 
 ## Large Language Model
 
-![LLM](../Images/LLM.png)
+![LLM](Images/LLM.png)
