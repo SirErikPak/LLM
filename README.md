@@ -19,3 +19,7 @@ Install Libraies for LLM:
 - `pip install matplotlib`
 - `pip install seaborn`
 - `pip install tiktoken`
+
+## Large Language Model
+
+![LLM](../Images/LLM.png)
