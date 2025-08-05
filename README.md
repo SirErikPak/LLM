@@ -2,6 +2,10 @@
 
 This project implements a Large Language Model from scratch, providing a comprehensive understanding of transformer architecture and natural language processing.
 
+The diagram shows the transformer's encoder and decoder submodules. On the left, the encoder segment, which exemplifies BERT-like LLMs, focuses on masked word prediction, and it is primarily used for tasks like text classification. On the right, the decoder segment showcases GPT-like LLMs, which designers build for generative tasks and which produce coherent text sequences.
+
+![LLM](Images/Transformer.png)
+
 Create a Virtual Environment and Activate the new Enviroment.
 `conda create --name LLM  python=3.11.11`
 `conda activate LLM`
@@ -23,9 +27,5 @@ Install Libraies for LLM:
 - `pip install tiktoken`
 
 ## Large Language Model (LLM)
-
-The diagram shows the transformer's encoder and decoder submodules. On the left, the encoder segment, which exemplifies BERT-like LLMs, focuses on masked word prediction, and it is primarily used for tasks like text classification. On the right, the decoder segment showcases GPT-like LLMs, which designers build for generative tasks and which produce coherent text sequences.
-
-![LLM](Images/Transformer.png)
 
 ![LLM](Images/LLM.png)
