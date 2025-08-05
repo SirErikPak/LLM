@@ -1,6 +1,6 @@
 # Build a Large Language Model (From Scratch)
 
-    This project implements a Large Language Model from scratch, providing a comprehensive understanding of transformer architecture and natural language processing.
+This project implements a Large Language Model from scratch, providing a comprehensive understanding of transformer architecture and natural language processing.
 
 Create a Virtual Environment and Activate the new Enviroment.
 `conda create --name LLM  python=3.11.11`
