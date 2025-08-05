@@ -24,4 +24,8 @@ Install Libraies for LLM:
 
 ## Large Language Model (LLM)
 
+The diagram shows the transformer's encoder and decoder submodules. On the left, the encoder segment, which exemplifies BERT-like LLMs, focuses on masked word prediction, and it is primarily used for tasks like text classification. On the right, the decoder segment showcases GPT-like LLMs, which designers build for generative tasks and which produce coherent text sequences.
+
+![LLM](Images/Transformer.png)
+
 ![LLM](Images/LLM.png)
