@@ -20,6 +20,9 @@ Install Libraies for LLM:
 - `pip install seaborn`
 - `pip install tiktoken`
 
-## Large Language Model
+## Large Language Model (LLM)
+
+    This project implements a Large Language Model from scratch, providing a comprehensive understanding of transformer architecture and natural language processing.
+
 
 ![LLM](Images/LLM.png)
